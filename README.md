@@ -1,5 +1,5 @@
 # 💫 About Me:
-A passionate Cloud Engineer || DevOps Engineer || Kafka Admin from India
+**A passionate Cloud Engineer || DevOps Engineer || Kafka Admin from India**
 
 
 ## 🌐 Socials:
