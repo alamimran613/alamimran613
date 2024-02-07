@@ -13,7 +13,6 @@
 
 - 💬 Ask me about **AWS, DevOps, Apache Kafka, YouTube**
 
-- 📫 How to reach me **alamimran613@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
