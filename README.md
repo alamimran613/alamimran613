@@ -11,6 +11,14 @@ Stay updated with the latest tutorials and projects by subscribing to my YouTube
 
 [![](https://visitcount.itsvg.in/api?id=alamimran613&icon=1&color=4)](https://visitcount.itsvg.in)
 
+## 🙌 Support My Work
+
+If you appreciate the tutorials, code, or content I create, you can support me directly using the options below:
+
+[![GitHub Sponsors](https://img.shields.io/badge/Sponsor-GitHub-ff69b4?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sponsors/alamimran613/)
+[![PayPal](https://img.shields.io/badge/Donate-PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/imranalam)
+[![UPI](https://img.shields.io/badge/Donate-UPI-orange?style=for-the-badge&logo=googlepay&logoColor=white)](https://github.com/alamimran613/Donations/blob/main/README.md)
+
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=alamimran613&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
